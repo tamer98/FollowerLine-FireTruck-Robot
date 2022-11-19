@@ -4,30 +4,24 @@
 > The project was built in Arduino by using C++ and Solid
 
 
-``` Robot Description/Functions ```
--
+` Robot Description/Functions `
+
 Suzi is a mini follower line fire truck robot that built from streach
-some of it functions
 
+**Robot functions**
 
-
-
+`code`
 
 **In Robot**
 
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
 
 ```
-{
+
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
-}
+
 ```
 
 
