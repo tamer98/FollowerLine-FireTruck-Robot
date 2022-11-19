@@ -8,12 +8,6 @@
 ---
 Suzi is a mini follower line fire truck robot that built from streach
 
-` 3D Printing Process`
-
-https://user-images.githubusercontent.com/72464761/202859644-9180f671-26c2-42c3-afe6-84945715da79.mp4
-
-
-
 
 ### `functions`
 ---
@@ -22,6 +16,7 @@ https://user-images.githubusercontent.com/72464761/202859644-9180f671-26c2-42c3-
 - blinking lamp with buzzer alert
 
 ### `In Robot`
+---
 - Pump
 - Relay
 - Buzzer
@@ -37,42 +32,28 @@ https://user-images.githubusercontent.com/72464761/202859644-9180f671-26c2-42c3-
 - And the robot body itself
 
 
-```
-
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-
-```
+### ` 3D Printing Process`
+---
+https://user-images.githubusercontent.com/72464761/202860356-283cc477-2873-4343-bf75-1dcd834f2feb.mp4
 
 
+### ` Laser Process`
+---
+https://user-images.githubusercontent.com/72464761/202860802-b2e5f1bc-eee6-43f7-874e-b0133e5b0b3a.mp4
 
+### `Tests`
+---
 
-### My Great Heading {
-
-}
-
-
-term
-: definition
+https://user-images.githubusercontent.com/72464761/202861346-628509fd-ff4a-4e4c-8218-a07048aff45c.mp4
 
 
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-
-
-That is so funny! :joy:
+https://user-images.githubusercontent.com/72464761/202861427-1da80a5b-2673-4db8-bb72-e2b57b2c1166.mp4
 
 
 
 
-I need to highlight these ==very important words==.
 
 
-H~2~O
 
 
-X^2^
