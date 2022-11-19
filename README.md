@@ -1,5 +1,6 @@
 # Suzi Fire Truck
 
+![PHOTO1](https://user-images.githubusercontent.com/72464761/202861686-0a30523d-6f19-488a-8aa1-e75411f0b574.jpg)
 
 > The project was built in Arduino by using C++ and Solid for 3D printing
 
@@ -45,8 +46,6 @@ https://user-images.githubusercontent.com/72464761/202860802-b2e5f1bc-eee6-43f7-
 ---
 
 https://user-images.githubusercontent.com/72464761/202861346-628509fd-ff4a-4e4c-8218-a07048aff45c.mp4
-
-
 
 https://user-images.githubusercontent.com/72464761/202861427-1da80a5b-2673-4db8-bb72-e2b57b2c1166.mp4
 
