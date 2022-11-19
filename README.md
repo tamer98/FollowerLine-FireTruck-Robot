@@ -1,2 +1,2 @@
-# FollowerLine-FireTruck-Robot
-Suzi MiniFireTruck Robot
+# Suzi
+FollowerLine-FireTruck-Robot
