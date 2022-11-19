@@ -9,7 +9,9 @@
 Suzi is a mini follower line fire truck robot that built from streach
 
 ` 3D Printing Process`
-https://user-images.githubusercontent.com/72464761/202859472-fdb77c0a-5007-4ee4-91e4-ae5aa974a9aa.mp4
+
+https://user-images.githubusercontent.com/72464761/202859644-9180f671-26c2-42c3-afe6-84945715da79.mp4
+
 
 
 
