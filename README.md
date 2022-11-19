@@ -1,19 +1,38 @@
 # Suzi Fire Truck
 
 
-> The project was built in Arduino by using C++ and Solid
+> The project was built in Arduino by using C++ and Solid for 3D printing
 
 
-` Robot Description/Functions `
-
+### `Description `
+---
 Suzi is a mini follower line fire truck robot that built from streach
 
-**Robot functions**
+` 3D Printing Process`
+https://user-images.githubusercontent.com/72464761/202859472-fdb77c0a-5007-4ee4-91e4-ae5aa974a9aa.mp4
 
-`code`
 
-**In Robot**
 
+### `functions`
+---
+- Line follower
+- Fire extinguisher
+- blinking lamp with buzzer alert
+
+### `In Robot`
+- Pump
+- Relay
+- Buzzer
+- Jumers
+- Led Lamp
+- 2 DC Motor
+- Light Sensor
+- Arduino Nano
+- 4 DC Motor Wheels
+- DC Motor Driver L298N
+- Battery Holder (AAx6)
+- Arduino Nano IO Shield
+- And the robot body itself
 
 
 ```
