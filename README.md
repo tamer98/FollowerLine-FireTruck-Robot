@@ -24,12 +24,12 @@ Suzi is a mini follower line fire truck robot that built from streach
 - Jumers
 - Led Lamp
 - 2 DC Motor
-- Light Sensor
 - Arduino Nano
 - 4 DC Motor Wheels
 - DC Motor Driver L298N
 - Battery Holder (AAx6)
 - Arduino Nano IO Shield
+- Analog IR Sensor (4Pin)
 - And the robot body itself
 
 
