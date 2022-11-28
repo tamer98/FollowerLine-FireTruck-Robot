@@ -12,7 +12,7 @@ Suzi is a mini follower line fire truck robot that built from streach
 
 ### `Functions`
 ---
-- Line follower
+- Line followerب
 - Fire extinguisher
 - blinking lamp with buzzer alert
 
