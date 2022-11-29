@@ -4,7 +4,7 @@
 
 > The project was built in Arduino by using C++ and Solid for 3D printing
 
-
+s
 ### `Description `
 ---
 Suzi is a mini follower line fire truck robot that built from streach
